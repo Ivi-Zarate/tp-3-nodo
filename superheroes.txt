@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Láseres"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Wonder Woman",
+    "nombreReal": "Diana Prince",
+    "nombreSociedad": "Amazona",
+    "edad": 3000,
+    "planetaOrigen": "Themyscira",
+    "debilidad": "Desconocida",
+    "poder": [
+      "Fuerza sobrehumana",
+      "Inmortal",
+      "Vuelo"
+    ],
+    "habilidadEspecial": "Combate con armas",
+    "aliado": [
+      "Superman"
+    ],
+    "enemigo": [
+      "Ares"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "nombreSociedad": "Vigilante",
+    "edad": 28,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Fuerzas de fricción",
+    "poder": [
+      "Super velocidad",
+      "Viaje en el tiempo"
+    ],
+    "habilidadEspecial": "Reacción rápida",
+    "aliado": [
+      "Green Lantern"
+    ],
+    "enemigo": [
+      "Reverse Flash"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Green Lantern",
+    "nombreReal": "Hal Jordan",
+    "nombreSociedad": "Green Lantern Corps",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Miedo",
+    "poder": [
+      "Anillo de poder",
+      "Vuelo",
+      "Creación de constructos"
+    ],
+    "habilidadEspecial": "Voluntad inquebrantable",
+    "aliado": [
+      "Flash"
+    ],
+    "enemigo": [
+      "Sinestro"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Aquaman",
+    "nombreReal": "Arthur Curry",
+    "nombreSociedad": "Rey de Atlantis",
+    "edad": 35,
+    "planetaOrigen": "Atlantis",
+    "debilidad": "Deshidratación",
+    "poder": [
+      "Control del agua",
+      "Comunicación con criaturas marinas"
+    ],
+    "habilidadEspecial": "Nado a super velocidad",
+    "aliado": [
+      "Mera"
+    ],
+    "enemigo": [
+      "Orm"
+    ]
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Batman",
+    "nombreReal": "Bruce Wayne",
+    "nombreSociedad": "Vigilante",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ser humano sin poderes",
+    "poder": [
+      "Estratega",
+      "Combate cuerpo a cuerpo",
+      "Equipamiento avanzado"
+    ],
+    "habilidadEspecial": "Investigación",
+    "aliado": [
+      "Robin"
+    ],
+    "enemigo": [
+      "Joker"
+    ]
+  }
